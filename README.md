@@ -1,1 +1,1 @@
-# python-postgresql
+# Python PostgreSQL Practice
